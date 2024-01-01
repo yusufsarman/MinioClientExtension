@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinioExtension", "MinioExtension\MinioExtension.csproj", "{69C349FD-BDBF-4CAD-8744-120C7D22BCE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{32F1C67F-E45A-443D-9BC5-9770F5CA3534}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69C349FD-BDBF-4CAD-8744-120C7D22BCE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C349FD-BDBF-4CAD-8744-120C7D22BCE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C349FD-BDBF-4CAD-8744-120C7D22BCE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C349FD-BDBF-4CAD-8744-120C7D22BCE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32F1C67F-E45A-443D-9BC5-9770F5CA3534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32F1C67F-E45A-443D-9BC5-9770F5CA3534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32F1C67F-E45A-443D-9BC5-9770F5CA3534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32F1C67F-E45A-443D-9BC5-9770F5CA3534}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49007740-95F0-474F-AA72-3AB85E66A43F}
+	EndGlobalSection
+EndGlobal

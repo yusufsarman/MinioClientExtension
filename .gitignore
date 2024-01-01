@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Client/bin/Debug/net7.0
+/Client/obj
+/MinioExtension/bin/Debug/net7.0
+/MinioExtension/obj
