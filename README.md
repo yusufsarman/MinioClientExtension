@@ -1,6 +1,6 @@
 ﻿# MinioClientExtension
 
-Minio client for .net project.
+Minio client for .net Core project.
 
 ## How to Use
 add this to appsettings.json. 
